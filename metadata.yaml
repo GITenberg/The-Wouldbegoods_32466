@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/407
     wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32466#The-Wouldbegoods
 gutenberg_issued: '2010-05-21'
 gutenberg_type: Text
 identifiers:
