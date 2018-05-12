@@ -1,0 +1,45 @@
+_repo: The-Wouldbegoods_32466
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Birch, Reginald Bathurst
+    aliases:
+    - Birch, Reginald B. (Reginald Bathurst)
+    - Birch, Reginald Bathhurst
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '26446'
+    url: http://www.gutenberg.org/2009/agents/26446
+covers:
+- cover_type: archival
+  image_path: 32466-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Nesbit, Edith
+    - Bland, Edith Nesbit
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_issued: '2010-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Children -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'England -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: The Wouldbegoods
+url: http://www.gutenberg.org/ebooks/32466
